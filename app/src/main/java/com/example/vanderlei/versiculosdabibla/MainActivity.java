@@ -26,7 +26,8 @@ public class MainActivity extends AppCompatActivity {
                         "2 Reis 19:11 ");
                 break;
             case(1):
-                textoGerado.setText("O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha. Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor. O amor não se alegra com a injustiça, mas se alegra com a verdade. Tudo sofre, tudo crê, tudo espera, tudo suporta.\n" +
+                textoGerado.setText("O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha. Não maltrata, não procura seus interesses," +"\n" +
+                        "não se ira facilmente, não guarda rancor. O amor não se alegra com a injustiça, mas se alegra com a verdade. Tudo sofre, tudo crê, tudo espera, tudo suporta.\n" +
                         "1 Coríntios 13:4-7");
                 break;
             case(2):
