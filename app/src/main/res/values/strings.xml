@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Versiculos da Biblía</string>
+    <string name="todo">TODO</string>
+    <string name="aperte_o_bot_o_para_gerar_um_novo_vers_culo">Aperte o botão para gerar um novo versículo</string>
+    <string name="gerar_novo_vers_culo">Gerar Novo Versículo</string>
+    <string name="nenhum_versiculo_gerado_at_o_momento">Nenhum Versiculo gerado até o momento</string>
+</resources>
